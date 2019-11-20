@@ -4,3 +4,10 @@
 #include <string.h>
 #include <sys/types.h>
 #include <signal.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <time.h>
+#include <wait.h>
+#include <sys/param.h>
+
+void init_daemon(void);

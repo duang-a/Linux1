@@ -10,4 +10,4 @@
 #include <wait.h>
 #include <sys/param.h>
 
-void init_daemon(void);
+

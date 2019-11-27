@@ -9,5 +9,7 @@
 #include <time.h>
 #include <wait.h>
 #include <sys/param.h>
+#include <errno.h>
+#include <fcntl.h>
 
 

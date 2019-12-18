@@ -14,6 +14,7 @@
 #include <pthread.h>
 #include <limits.h>
 #include <sys/syscall.h>
+#include <semaphore.h>
 
 
 #define NUM 4
